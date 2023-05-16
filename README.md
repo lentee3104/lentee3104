@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats-ruby-one.vercel.app/api?username=lentee3104)
-[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=lentee3104)](https://github.com/anuraghazra/github-readme-stats)
+
