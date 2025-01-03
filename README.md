@@ -1,5 +1,5 @@
 ### Hi there 👋
-![🐟's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shades-of-purple&show_icons=true)
+![🐟's GitHub stats](https://github-readme-stats.vercel.app/api?username=lentee3104&theme=shades-of-purple&show_icons=true)
 
 <!--
 **lentee3104/lentee3104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
