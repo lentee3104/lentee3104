@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![🐟's GitHub stats](https://github-readme-stats.vercel.app/api?username=lentee3104&theme=catppuccin_latte&show_icons=true)
 
+[![GraduationProject-backend](https://github-readme-stats.vercel.app/api/pin/?username=lentee3104&repo=GraduationProject-backend)](https://github.com/lentee3104/GraduationProject-backend)
+
 <!-- 提交记录折线图
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lentee3104&theme=github-compact&hide_border=true&area=true" />
 -->
