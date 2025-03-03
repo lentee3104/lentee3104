@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=CC51F7&width=435&lines=Welcome+to+%F0%9F%90%9F's+page)](https://git.io/typing-svg)
 ![🐟's GitHub stats](https://github-readme-stats.vercel.app/api?username=lentee3104&theme=catppuccin_latte&show_icons=true)
 
 <!-- 提交记录折线图
